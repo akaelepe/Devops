@@ -4,7 +4,7 @@
 <br>
 <br>  
 
-[](./img/Devops.jpg)
+![](./img/Devops.jpg)
 ## Introducción a DevOps  
 
 DevOps es un conjunto de prácticas que combina el desarrollo de software (Dev) y las operaciones de tecnología de la información (Ops).  
