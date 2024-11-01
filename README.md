@@ -4,10 +4,9 @@
 <br>
 <br>  
 
-![](./img/Devops.jpg)  
+![](./img/devops.png)  
 
-## Para moverse entre repositorios  
-
+  
 ## Introducción a DevOps  
 
 *DevOps es un conjunto de prácticas que combina el desarrollo de software (Dev) y las operaciones de tecnología de la información (Ops).*
@@ -27,3 +26,10 @@
 ## Conclusión
 > [!NOTE]
 > En resumen, DevOps busca crear un entorno ágil y eficiente donde el software se desarrolla, prueba, implementa y mantiene de manera colaborativa y efectiva.
+
+
+## Para moverse entre repositorios  
+
+[![Filosofía Devops](https://img.shields.io/badge/IR%20A%20FILOSOFIA%20DEVOPS-BLUE?style=for-the-badge&color=%237289da)](./Filosofia.md)  
+[![Herramientas Devops](https://img.shields.io/badge/IR%20A%20HERRAMIENTAS%20DEVOPS-BLUE?style=for-the-badge&color=%23f2b300)](./Herramientas.md)  
+[![Oferta y empleo Devops](https://img.shields.io/badge/IR%20A%20OFERTA%20Y%20EMPLEO%20DEVOPS-BLUE?style=for-the-badge&color=%23004225)](./Oferta.md)  
