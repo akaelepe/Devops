@@ -9,7 +9,8 @@
   
 ## Introducción a DevOps  
 
-*DevOps es un conjunto de prácticas que combina el desarrollo de software (Dev) y las operaciones de tecnología de la información (Ops).*
+*DevOps es un conjunto de prácticas que combina el desarrollo de software (Dev) y las operaciones de tecnología de la información (Ops).*  
+*[Más información sobre Devops](https://www.atlassian.com/es/devops#:~:text=DevOps%20es%20un%20conjunto%20de,la%20automatización%20de%20la%20tecnología.).*
 
 ## Objetivo Devops  
 
