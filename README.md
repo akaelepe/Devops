@@ -4,10 +4,13 @@
 <br>
 <br>  
 
-![](./img/Devops.jpg)
+![](./img/Devops.jpg)  
+
+## Para moverse entre repositorios  
+
 ## Introducción a DevOps  
 
-DevOps es un conjunto de prácticas que combina el desarrollo de software (Dev) y las operaciones de tecnología de la información (Ops).  
+*DevOps es un conjunto de prácticas que combina el desarrollo de software (Dev) y las operaciones de tecnología de la información (Ops).*
 
 ## Objetivo Devops  
 
@@ -22,4 +25,5 @@ DevOps es un conjunto de prácticas que combina el desarrollo de software (Dev) 
 3. Monitoreo y retroalimentación: Uso de métricas y análisis para mejorar continuamente los procesos y el rendimiento del software.
 
 ## Conclusión
-En resumen, DevOps busca crear un entorno ágil y eficiente donde el software se desarrolla, prueba, implementa y mantiene de manera colaborativa y efectiva.
+> [!NOTE]
+> En resumen, DevOps busca crear un entorno ágil y eficiente donde el software se desarrolla, prueba, implementa y mantiene de manera colaborativa y efectiva.
